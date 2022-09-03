@@ -68,3 +68,5 @@ I will have to later classify these problems according to the problem framework 
 I should add a running document with problems on it so that I can add new/interesting problems as they arise. These problems are good for now. Next up is identifying the hierarchy of problems.
 
 Quick note - I should also add a document that serves as a map for the site. Updates as I add blog posts and explore new topics.
+
+[Post 1 - A Guideline for This Site](Post1)
