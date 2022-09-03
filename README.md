@@ -3,3 +3,4 @@ I'm interested in many things, but my two favorites are learning and reasoning. 
   
 # Posts
 [Post 1 - A Guideline for This Site | September 2, 2022](Post1)
+[Post 2 - Some Interesting Problems | September 3, 2022](Post2)
