@@ -28,4 +28,4 @@ For my sake, so I don't get pigeonholed.
 ### Rule 6
 To ensure integrity and transparency. Currently, this is accomplished through Github, as this is a Github pages site. All former versions can be found in the public Github repo. I would like to make a dynamic website in the future, so I will need a better solution for this. 
 
-[Next Post - Some Interesting Problems](Post1)
+[Next Post - Some Interesting Problems](Post2)
