@@ -42,7 +42,8 @@ I think it would be useful to make a to-do list with blog topics to write about 
     - It's a binary. Problems are either worth solving or should be ignored
 - I should probably also add a post on the philosophy of this site. I'm sure I can find out much about this on the internet. Should this be a research blog? Or should this be a blog where I build a framework for the world entirely from first-principles reasoning? Or should it be a mixture of the two
 - The previous bullet point seems like a meta-topic. I need a post to explore whether there are other meta-issues to address before I start going on the blog. 
-- This isn't a blog post, but I think it would be interesting to build a framework for a blog site that is living & breathing. Posts can be updated at any point. There is a drop-down list in the top right corner of the page, where users can select the version of the post that is being displayed. It would be automatically set to the most recent version of the post. I want this for my site, to increase transparency. 
+- This isn't a blog post, but I think it would be interesting to build a framework for a blog site that is living & breathing. Posts can be updated at any point. There is a drop-down list in the top right corner of the page, where users can select the version of the post that is being displayed. It would be automatically set to the most recent version of the post. I want this for my site, to increase transparency.
+ 
 ---
 
 ## Finally, some interesting problems
